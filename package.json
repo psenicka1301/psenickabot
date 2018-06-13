@@ -1,0 +1,26 @@
+{
+  "name": "psenickabot",
+  "version": "0.0.0",
+  "description": "Psenicka's bot for Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psenicka1301/psenickabot.git"
+  },
+  "keywords": [
+    "psenicka",
+    "bot",
+    "slack"
+  ],
+  "author": "psenicka",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psenicka1301/psenickabot/issues"
+  },
+  "dependencies": {
+    "@slack/client": "^4.3.1"
+  }
+}
